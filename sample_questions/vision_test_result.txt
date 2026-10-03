@@ -1,0 +1,80 @@
+### 📋 QUESTION
+
+**The four sentences (labelled 1, 2, 3, 4) below, when properly sequenced would yield a coherent paragraph. Decide on the proper sequencing of the order of the sentences and enter the sequence of the four numbers as your answer.**
+
+1. What appears to influence behavior more decisively is the certainty that wrongdoing will be detected and promptly penalized, creating a clear and immediate connection between action and outcome.
+2. Research on crime deterrence consistently indicates that the harshness of punishment, such as longer prison sentences, plays a far smaller role than the likelihood and speed with which consequences are enforced.
+3. The effect is particularly pronounced among teenagers, whose heightened impulsivity and tendency to prioritize short-term rewards make them less responsive to distant or abstract threats of severe punishment.
+4. The principle applies broadly across age groups, suggesting that predictability in enforcement fosters stronger behavioral restraint than severity alone.
+
+---
+
+### 📚 SUBJECT & TOPIC
+- **Subject:** Verbal Ability / English Linguistics
+- **Topic:** Sentence Ordering, Discourse Architecture & Reference Resolution
+
+---
+
+### 💡 CONCEPT
+
+To solve high-level parajumble questions, two key discourse principles must be applied:
+
+1. **Anaphoric & Nominal Reference Resolution:** Sentences containing noun phrases with definite articles or demonstrative pronouns (e.g., *"The principle"*, *"The effect"*) require prior established concepts as antecedents.
+2. **General-to-Specific Structural Progression:** Logical expository prose moves from a general rule/finding applicable across a broad spectrum (*"broadly across age groups"*) to specific sub-cases or demographic examples (*"particularly pronounced among teenagers"*).
+
+---
+
+### 🔗 SENTENCE RELATIONSHIPS & REFERENCES
+
+- **Mandatory Opening (Sentence 2):** Sentence 2 acts as the overarching thesis statement, introducing foundational research on crime deterrence comparing severity (*harshness*) versus certainty/speed (*likelihood and speed*).
+- **Elaboration Link (Sentence 2 $\rightarrow$ Sentence 1):** Sentence 1 expands upon the finding in Sentence 2, defining the exact mechanism (*certainty of detection and prompt penalty*).
+- **Synthesizing Reference (Sentence 1 $\rightarrow$ Sentence 4):** Sentence 4 introduces *"The principle"*, summarizing the core finding established in Sentences 2 and 1 (*predictability vs. severity*) and stating its general scope (*"broadly across age groups"*).
+- **Demographic Narrowing (Sentence 4 $\rightarrow$ Sentence 3):** Sentence 3 uses *"The effect"* to narrow down the broad statement in Sentence 4 (*"across age groups"*) to a specific demographic group (*"teenagers"*).
+
+---
+
+### 📝 STEP-BY-STEP SOLUTION
+
+1. **Identify the Independent Opening Sentence:**
+   - Sentences 3 and 4 begin with reference markers (*"The effect"*, *"The principle"*), ruling them out as paragraph openers.
+   - Sentence 1 begins with a relative clause (*"What appears to influence..."*) that logically responds to a context set up by research.
+   - **Sentence 2** introduces the central topic independently: *"Research on crime deterrence consistently indicates..."* $\rightarrow$ **Position 1 = 2**.
+
+2. **Establish the Direct Continuation (2 $\rightarrow$ 1):**
+   - Sentence 2 contrasts the *harshness* of punishment against the *likelihood and speed* of enforcement.
+   - Sentence 1 elaborates directly on this contrast: *"What appears to influence behavior more decisively is the certainty..."* $\rightarrow$ **Position 2 = 1**.
+
+3. **Establish Scope and Reference (1 $\rightarrow$ 4):**
+   - Sentence 4 synthesizes the idea established in 2 and 1, labeling it *"The principle"* (*predictability in enforcement fosters stronger restraint than severity alone*). It asserts that this rule applies *"broadly across age groups"* $\rightarrow$ **Position 3 = 4**.
+
+4. **Apply General-to-Specific Progression (4 $\rightarrow$ 3):**
+   - Sentence 3 refers to *"The effect"* and focuses specifically on **teenagers**, serving as a concrete demographic illustration of the broad rule mentioned in Sentence 4 $\rightarrow$ **Position 4 = 3**.
+
+---
+
+### 🎯 FINAL ANSWER
+
+**2143**
+
+---
+
+### 🌟 SIMPLE EXPLANATION
+
+- **Sentence 2** introduces the main research finding: severe punishments are less effective than speedy, likely ones.
+- **Sentence 1** explains *why*: certainty and swiftness create a clear, immediate link between action and consequence.
+- **Sentence 4** labels this insight as a general rule ("The principle") that applies across all age groups.
+- **Sentence 3** highlights a specific example ("teenagers"), showing where this rule is most strongly observed.
+
+---
+
+### ⚠️ COMMON MISTAKE
+
+- **Placing 3 before 4 (Sequence 2134):** 
+  Placing teenagers before the general mention of "across age groups" breaks the standard expository flow. Logical writing moves from general principles to specific cases, not vice versa.
+
+---
+
+### 📌 KEY TAKEAWAY
+
+When sequencing paragraphs discussing demographics or scope, always follow the hierarchy:
+$$\text{Core Research Finding} \longrightarrow \text{General Scope ("all age groups")} \longrightarrow \text{Specific Subgroup ("teenagers")}$$
